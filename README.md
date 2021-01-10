@@ -7,4 +7,9 @@ $cd NobitaYT032
 $ls
 $python2 NobitaYT.py
 
-$open file manager /data/data/com.termux/files/home/
+$open file manager /data/data/com.termux/files/home/NobitaYT032
+Pindahkan file yang mau di Dencrypt ke folder itu,
+Terus masuk lagi ke termux,pilih nomer2
+Dan disitu tulis nama file yang di Dencrypt!! 
+
+Thanks☺
